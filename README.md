@@ -95,7 +95,7 @@ Emojis for use in Slack
 ![spacethink](/images/spacethink.png)
 ![superfastthinkingspin](/images/superfastthinkingspin.gif)
 ![superthink](/images/superthink.gif)
-![thanking](/images/thanking.png)
+![thankingface](/images/thankingface.png)
 ![thethonker](/images/thethonker.png)
 ![thinkandthinky](/images/thinkandthinky.png)
 ![thinkclap](/images/thinkclap.png)
