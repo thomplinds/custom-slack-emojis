@@ -35,7 +35,7 @@ Emojis for use in Slack
 ![blobdevilanimated](/images/blobdevilanimated.gif)
 ![blobeyerollanimated](/images/blobeyerollanimated.gif)
 ![blobfacepalm](/images/blobfacepalm.png)
-![blobfeedme](/images/blobfeedme.png)
+![blobfeedme](/images/blobfeedme.gif)
 ![blobfeelsevil](/images/blobfeelsevil.png)
 ![blobfistbumpleft](/images/blobfistbumpleft.png)
 ![blobfistbumpright](/images/blobfistbumpright.png)
