@@ -520,7 +520,7 @@ Emojis for use in Slack
 ![swearing](/images/swearing.gif)
 ![sweep](/images/sweep.gif)
 ![szechuan-dipping-sauce](/images/szechuan-dipping-sauce.png)
-![tgif](/images/tgif/gif)
+![tgif](/images/tgif.gif)
 ![thatsgonnabeanoformedawg](/images/thatsgonnabeanoformedawg.png)
 ![thatswhereyourewrong](/images/thatswhereyourewrong.png)
 ![the_maze](/images/the_maze.png)
