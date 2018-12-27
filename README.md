@@ -249,6 +249,7 @@ Emojis for use in Slack
 ![dabglasses](/images/dabglasses.png)
 ![dailydouble](/images/dailydouble.jpg)
 ![daiquiri](/images/daiquiri.png)
+![dancing-reindeer](/images/dancing-reindeer.gif)
 ![decepticons](/images/decepticons.png)
 ![detective-pikachu](/images/detective-pikachu.png)
 ![dietcoke](/images/dietcoke.png)
