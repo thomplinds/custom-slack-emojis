@@ -22,6 +22,8 @@ Emojis for use in Slack
 
 # blobs
 
+![blob-mindblown](/images/blob-mindblown.png)
+![blob-thats-hot](/images/blob-thats-hot.png)
 ![blobangelanimated](/images/blobangelanimated.gif)
 ![blobaww](/images/blobaww.png)
 ![blobbaby](/images/blobbaby.png)
@@ -84,6 +86,7 @@ Emojis for use in Slack
 ![ideablob](/images/ideablob.png)
 ![kirbyblob](/images/kirbyblob.png)
 ![muscleblob](/images/muscleblob.png)
+![neonpartyblobfast](/images/neonpartyblobfast.gif)
 ![nomparty](/images/nomparty.gif)
 ![notsofast](/images/notsofast.gif)
 ![partyblobcheer](/images/partyblobcheer.png)
@@ -259,6 +262,7 @@ Emojis for use in Slack
 ![dogs-ping-pong](/images/dogs-ping-pong.gif)
 ![doit](/images/doit.gif)
 ![dorito-spin](/images/dorito-spin.gif)
+![doublefacepalm](/images/doublefacepalm.png)
 ![drake](/images/drake.gif)
 ![eggo-waffle](/images/eggo-waffle.png)
 ![emojibutler](/images/emojibutler.png)
@@ -319,6 +323,7 @@ Emojis for use in Slack
 ![i_voted](/images/i_voted.png)
 ![i-know-that-feel](/images/i-know-that-feel.png)
 ![idea](/images/idea.gif)
+![isabelledab](/images/isabelledab.png)
 ![iseewhatyoudidthere](/images/iseewhatyoudidthere.png)
 ![ive-made-a-huge-mistake](/images/ive-made-a-huge-mistake.png)
 ![ivory_tower](/images/ivory_tower.jpg)
@@ -431,6 +436,7 @@ Emojis for use in Slack
 ![patrickboo](/images/patrickboo.png)
 ![peanuts_dancer](/images/peanuts_dancer.gif)
 ![peekaboo](/images/peekaboo.gif)
+![peterchu](/images/peterchu.png)
 ![pika_sheepy](/images/pika_sheepy.gif)
 ![pikachu-running-pokeball](/images/pikachu-running-pokeball.gif)
 ![pikajoy](/images/pikajoy.png)
