@@ -545,6 +545,7 @@ Emojis for use in Slack
 ![somewhat_metal](/images/somewhat_metal.png)
 ![sonicconga](/images/sonicconga.gif)
 ![soundcloud](/images/soundcloud.png)
+![spider-crawling](/images/spider-crawling.gif)
 ![spider-man-pointing-at-self](/images/spider-man-pointing-at-self.png)
 ![spinning-dreidel](/images/spinning-dreidel.gif)
 ![spongebob-mock](/images/spongebob-mock.png)
