@@ -436,6 +436,7 @@ Emojis for use in Slack
 ![ilana-salute](/images/ilana-salute.gif)
 ![isabelledab](/images/isabelledab.png)
 ![iseewhatyoudidthere](/images/iseewhatyoudidthere.png)
+![its-a-trap](/images/its-a-trap.png)
 ![ive-made-a-huge-mistake](/images/ive-made-a-huge-mistake.png)
 ![ivory_tower](/images/ivory_tower.jpg)
 ![iwanttobelieve](/images/iwanttobelieve.png)
@@ -774,4 +775,5 @@ Emojis for use in Slack
 ![youtried](/images/youtried.png)
 ![yulelog](/images/yulelog.jpg)
 ![zippolighter](/images/zippolighter.png)
+![zombiesunglasses](/images/zombiesunglasses.png)
 ![zombiethumbsup](/images/zombiethumbsup.gif)
