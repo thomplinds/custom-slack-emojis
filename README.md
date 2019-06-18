@@ -930,7 +930,7 @@ Emojis for use in Slack
 ![yellowlight](/images/yellowlight.png)
 ![yikes](/images/yikes.gif)
 ![yolo](/images/yolo.png)
-![you-didn’t-see-anything](/images/you-didn’t-see-anything.gif)
+![you-didnt-see-anything](/images/you-didnt-see-anything.gif)
 ![youtried](/images/youtried.png)
 ![yulelog](/images/yulelog.jpg)
 ![zippolighter](/images/zippolighter.png)
