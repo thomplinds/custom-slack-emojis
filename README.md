@@ -1209,7 +1209,6 @@
 ![shortparrot.gif](/images/shortparrot.gif)
 ![showmethemoney.png](/images/showmethemoney.png)
 ![shy.png](/images/shy.png)
-![shy_animated.gif](/images/shy_animated.gif)
 ![sims.png](/images/sims.png)
 ![sinterklaasparrot.gif](/images/sinterklaasparrot.gif)
 ![sisyphus.png](/images/sisyphus.png)
